@@ -17,12 +17,9 @@
 - 📫 ГМЕІЛ example@gmail.com
 - 🌍 ВМІЮ ГОВОРИТИ АНГЛІСЬКОЮ
 - 14 років
-### МОВИ
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
-### My stat
+### Україна
 <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark"/>
+	<img src="https://cdnn21.img.ria.ru/images/07e4/0a/1b/1581795603_0:0:3058:1720_1920x0_80_0_0_b720ebd7fa68c850d0c79a6e2b1921f5.jpg"/>
+	<img src="https://static.dw.com/image/55178101_605.jpg"/>
+	<img src="https://iacis.ru/public/upload/news/2/1280.jpg"/>
 </div>
